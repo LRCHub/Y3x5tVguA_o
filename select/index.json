@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "にゃんにゃんおやつクッキング",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-02-21T08:21:53.351210Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にゃんにゃんおやつクッキング",
+      "artist": "HoneyWorks, Hanon, Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_にゃんにゃんおやつクッキング_HoneyWorks,_Hanon,_Kotoha.txt"
+    }
+  ]
+}
